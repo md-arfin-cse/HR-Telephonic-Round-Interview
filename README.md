@@ -1,5 +1,3 @@
-# HR-Telephonic-Round-Interview
-
 ________________________________________
 HR Interview Questions For Freshers
 •	Tell me about yourself.
