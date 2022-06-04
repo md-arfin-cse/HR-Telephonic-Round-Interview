@@ -49,5 +49,5 @@ HR Interview Questions For Experienced
 •	Why should I hire you from the outside when I could promote someone from within?
 •	How do you feel about reporting to a younger person?
 •	Looking back, what would you do differently in your life?
-•	Why are not you earning more money at this stage of your career?
+•	Why are not you earning more money at this stage of your career
 
